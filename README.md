@@ -36,22 +36,16 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="center" >
 
-
-![](https://github-readme-stats-eta-eight-41.vercel.app/api?username=TejalKaushik-123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<br>
-
-
-![](https://nirzak-streak-stats.vercel.app/?user=TejalKaushik-123&theme=dark&hide_border=false)<br/>
-<br>
+![](https://nirzak-streak-stats.vercel.app/?user=TejalKaushik-123&theme=dark&hide_border=false)
+![](https://github-readme-stats-eta-eight-41.vercel.app/api?username=TejalKaushik-123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 
 ![](https://github-readme-stats-eta-eight-41.vercel.app/api/top-langs/?username=TejalKaushik-123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
  <br>
-  <img src="https://github-profile-trophy.vercel.app?username=TejalKaushik-123&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TejalKaushik-123&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
