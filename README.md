@@ -38,7 +38,8 @@
 
 <div align="center" >
 
-![](https://nirzak-streak-stats.vercel.app/?user=TejalKaushik-123&theme=dark&hide_border=false)![](https://github-readme-stats-eta-eight-41.vercel.app/api?username=TejalKaushik-123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=TejalKaushik-123&theme=dark&hide_border=false)
+![](https://github-readme-stats-eta-eight-41.vercel.app/api?username=TejalKaushik-123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 
 ![](https://github-readme-stats-eta-eight-41.vercel.app/api/top-langs/?username=TejalKaushik-123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
