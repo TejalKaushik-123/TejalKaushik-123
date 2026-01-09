@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">🔭 I’m currently working on building more projects on GitHub<br>🤝 I’m looking to collaborate on open sources<br>😄 Pronouns: he/him/his</p>
+<p align="left">🔭 I’m currently working on building more projects on GitHub<br>🤝 I’m looking to collaborate on open sources<br>😄 Pronouns: he/him</p>
 
 ###
 
