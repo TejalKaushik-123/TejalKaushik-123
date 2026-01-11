@@ -12,7 +12,11 @@
 
 <br clear="both">
 
-<p align="left">🔭 I’m currently working on building more projects on GitHub<br>🤝 I’m looking to collaborate on open sources<br>😄 Pronouns: he/him</p>
+🔭 I’m currently working on building more projects on GitHub
+
+🤝 I’m looking to collaborate on open sources
+
+😄 Pronouns: he/him</p>
 
 ###
 
@@ -50,3 +54,11 @@
 
 
 ###
+
+# Contribute and fork my this project ⬇️
+
+Name: States_and_Union_territories_of_the_India
+
+Link: <a href="https://github.com/TejalKaushik-123/States_and_Union_territories_of_the_India">Click to open repository</a>
+
+License: MIT license
